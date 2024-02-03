@@ -9,3 +9,4 @@
 [![Forks](https://img.shields.io/github/forks/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ??style=flat-square&color=orange)]((https://github.com/KSSAjay24)https://github.com/KSSAjay24/fork)
 [![Size](https://img.shields.io/github/repo-size/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ?style=flat-square&color=green)](https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)]((https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ) 
+[![Contributors](https://img.shields.io/github/contributors/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ?style=flat-square&color=green)]((https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ/graphs/contributors)

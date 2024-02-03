@@ -13,7 +13,7 @@ def is_enabled(value, default):
 # PyroClient Setup
 API_ID = environ.get('API_ID', '29877245')
 API_HASH =  environ.get('API_HASH','f580b015eeec1f8cfb524210f426dcfa')
-BOT_TOKEN = environ('BOT_TOKEN','6378259064:AAFD80WjID9qlZJdiLtEqkmpNhwNQ73QBIg')
+BOT_TOKEN =  environ.get('BOT_TOKEN','6378259064:AAFD80WjID9qlZJdiLtEqkmpNhwNQ73QBIg')
 # Bot settings
 WEBHOOK = bool(environ.get("WEBHOOK", False)) # for web support on/off
 PICS = (environ.get('PICS' ,'https://graph.org/file/eb6687ef0dd8e5e1eacc2.jpg https://graph.org/file/22e2a90f1e1ce00020c02.jpg https://graph.org/file/a125497b6b85a1d774394.jpg https://graph.org/file/43d26c54d37f4afb830f7.jpg https://graph.org/file/60c1adffc7cc2015f771c.jpg https://graph.org/file/d7b520240b00b7f083a24.jpg https://graph.org/file/0f336b0402db3f2a20037.jpg https://graph.org/file/39cc4e15cad4519d8e932.jpg https://graph.org/file/d59a1108b1ed1c6c6c144.jpg https://te.legra.ph/file/3a4a79f8d5955e64cbb8e.jpg https://graph.org/file/d69995d9846fd4ad632b8.jpg')).split()

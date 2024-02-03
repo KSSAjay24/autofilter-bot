@@ -6,7 +6,6 @@ from info import AUTH_CHANNEL, LONG_IMDB_DESCRIPTION, MAX_LIST_ELM, SHORT_URL, S
 from imdb import Cinemagoer
 from typing import Union, List
 from datetime import datetime, timedelta
-from database.users_chats_db import db
 from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)

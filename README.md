@@ -6,4 +6,4 @@
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ?style=flat-square&color=yellow)](https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ/stargazers)
-
+[![Forks](https://img.shields.io/github/forks/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ??style=flat-square&color=orange)]((https://github.com/KSSAjay24)https://github.com/KSSAjay24/fork)

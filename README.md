@@ -8,3 +8,4 @@
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ?style=flat-square&color=yellow)](https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ/stargazers)
 [![Forks](https://img.shields.io/github/forks/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ??style=flat-square&color=orange)]((https://github.com/KSSAjay24)https://github.com/KSSAjay24/fork)
 [![Size](https://img.shields.io/github/repo-size/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ?style=flat-square&color=green)](https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)]((https://github.com/KSSAjay24/ᴀᴜᴛᴏғɪʟᴛᴇʀ-ʙᴏᴛ) 
